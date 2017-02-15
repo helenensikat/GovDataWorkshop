@@ -15,4 +15,4 @@ Materials and resources for the 3rd Annual Government Data Summit masterclass.
 [Link Bundle No.6: Displayng your data](https://github.com/helenensikat/GovDataWorkshop/blob/master/%5B6%5D%20Link%20Bundle:%20Displaying%20your%20data)
 
 # Workshop materials
-Add prompts, slides, game files, spreadsheets and other materials here for download.
+Links to key materials will be added here, including slides, spreadsheets, discussion prompts, and other files.
