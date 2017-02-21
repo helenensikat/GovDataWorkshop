@@ -2,9 +2,9 @@
 Materials and resources for the 3rd Annual Government Data Summit masterclass.
 
 # Learn more: resources and reading
-[Link Bundle No.1: Data analytics](Link Bundle 1 - Data analytics.md)
+[Link Bundle No.1: Data analytics, big data, & data linkage](Link Bundle 1 - Data analytics.md)
 
-[Link Bundle No.2: Personally identifiable data](Link Bundle 2 - Personally identifiable data.md)
+[Link Bundle No.2: Identity, privacy, & utility](Link Bundle 2 - Personally identifiable data.md)
 
 [Link Bundle No.3: Open data and government](Link Bundle 3 - Open data and government.md)
 
