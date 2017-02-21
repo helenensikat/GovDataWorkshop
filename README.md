@@ -4,7 +4,7 @@ Materials and resources for the 3rd Annual Government Data Summit masterclass.
 # Learn more: resources and reading
 [Link Bundle No.1: Data analytics](/%5B1%5D%20Link%20Bundle:%20Data%20analytics)
 
-[Link Bundle No.2: Personally identifiable data](https://github.com/helenensikat/GovDataWorkshop/blob/master/%5B2%5D%20Link%20Bundle:%20Personally%20identifiable%20data)
+[Link Bundle No.2: Personally identifiable data](/2%20-%20Link%20Bundle%20-%20Personally%20identifiable%20data.md)
 
 [Link Bundle No.3: Open data and government](https://github.com/helenensikat/GovDataWorkshop/blob/master/%5B3%5D%20Link%20Bundle:%20Open%20data%20and%20government)
 
