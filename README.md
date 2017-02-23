@@ -1,18 +1,27 @@
 # GovDataWorkshop
+
 Materials and resources for the 3rd Annual Government Data Summit masterclass.
 
+The masterclass focuses on getting more value out of your data.  It is designed to give you a very broad taste of current issues around data and government, direct you towards issues you may wish to learn more about, and provide you with materials you can take back to your organisation.
+
+The slides, workshop materials and information provided on this website are provided under a [CC BY-SA 3.0 AU licence](https://creativecommons.org/licenses/by-sa/3.0/au/), which means that you can re-use and adapt them as you wish.
+
 # Learn more: resources and reading
-[Link Bundle No.1: Data analytics, big data, & data linkage](Link Bundle 1 - Data analytics.md)
 
-[Link Bundle No.2: Identity, privacy, & utility](Link Bundle 2 - Personally identifiable data.md)
+The information bundles below contain links to examples, news coverage, and other materials discussed in the masterclass.  They also provide links to additional content that will help you make a start in learning more about any of the areas.
 
-[Link Bundle No.3: Open data and government](Link Bundle 3 - Open data and government.md)
+[Information Bundle No.1: Data analytics, big data, & data linkage](Link Bundle 1 - Data analytics.md)
 
-[Link Bundle No.4: Data formats and standards](Link Bundle 4 - Data formats and standards.md)
+[Information Bundle No.2: Identity, privacy, & utility](Link Bundle 2 - Personally identifiable data.md)
 
-[Link Bundle No.5: Hackathons and challenges](Link Bundle 5 - Hackathons and challenges.md)
+[Information Bundle No.3: Open data and government](Link Bundle 3 - Open data and government.md)
 
-[Link Bundle No.6: Displaying your data](Link Bundle 6 - Displaying your data.md)
+[Information Bundle No.4: Data formats and standards](Link Bundle 4 - Data formats and standards.md)
+
+[Information Bundle No.5: Hackathons and challenges](Link Bundle 5 - Hackathons and challenges.md)
+
+[Information Bundle No.6: Displaying your data](Link Bundle 6 - Displaying your data.md)
 
 # Workshop materials
-Links to key materials will be added here, including slides, spreadsheets, discussion prompts, and other files.
+
+To be updated.  Links to key materials will be added here, including slides, spreadsheets, discussion prompts, and other files.
