@@ -67,24 +67,22 @@ The NationalMap:
 ### Alberto Cairo
 Alberto Cairo is the Knight Chair in Visual Journalism at the School of Communication of the University of Miami and has written extensively on data visualisation for a wide audience.
 
-[The Truthful Art - Alberto Cairo](http://www.thefunctionalart.com/p/the-truthful-art-book.html)
+[The Truthful Art - Data, charts, and maps for communication](http://www.thefunctionalart.com/p/the-truthful-art-book.html)
 
 > “No matter what your actual job title, you are - or soon will be - a data worker.”
 
 [The Functional Art is an introduction to Information Graphics and Visualization](http://www.thefunctionalart.com/p/about-book.html)
 
 ### Assorted
-[Engineering intelligence through data visualisation at Uber](https://eng.uber.com/data-viz-intel/)
+- [Engineering intelligence through data visualisation at Uber](https://eng.uber.com/data-viz-intel/)
 
 ### Other Books
-[Design for Information: An introduction to the histories, theories, and best practices behind effective information visualizations](http://isabelmeirelles.com/book-design-for-information/)
-
-[Visualize This: The FlowingData Guide to Design, Visualization, and Statistics - Nathan Yau](http://book.flowingdata.com/)
-
-[Beautiful Visualization: Looking at Data through the Eyes of Experts - Julie Steele](http://shop.oreilly.com/product/0636920000617.do)
+- [Design for Information: An introduction to the histories, theories, and best practices behind effective information visualizations](http://isabelmeirelles.com/book-design-for-information/)
+- [Visualize This: The FlowingData Guide to Design, Visualization, and Statistics - Nathan Yau](http://book.flowingdata.com/)
+- [Beautiful Visualization: Looking at Data through the Eyes of Experts - Julie Steele](http://shop.oreilly.com/product/0636920000617.do)
 
 ### News Sources
-[informationisbeautiful.net](http://www.informationisbeautiful.net/)
-[flowingdata.com](http://flowingdata.com/)
-[Reddit: Data is Beautiful](https://www.reddit.com/r/dataisbeautiful/)
-[Reddit: Data Visualisation and Analytics](https://www.reddit.com/r/dataviz/)
+- [informationisbeautiful.net](http://www.informationisbeautiful.net/)
+- [flowingdata.com](http://flowingdata.com/)
+- [Reddit: Data is Beautiful](https://www.reddit.com/r/dataisbeautiful/)
+- [Reddit: Data Visualisation and Analytics](https://www.reddit.com/r/dataviz/)
