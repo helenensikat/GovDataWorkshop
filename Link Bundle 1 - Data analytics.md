@@ -29,20 +29,43 @@ Big data: datasets too large and complex to be processed, searched, and analyed 
 
 #### Emergency Response
 
++ [Predicting how communities will respond to bushfire warning](http://beloglazov.info/papers/2016-smpt-wildfire-evacuation.pdf) using census and geographic data, and modelling variable such as the type of fire, distance to neighbours, warnings received, and proximity of emergency services (Victoria)
++ [Detecting and analysing unusual behaviour on Twitter](https://www.csiro.au/en/Research/D61/Areas/Data-for-decisions/Disaster-management/ESA) to provide information about emergency events (Australia)
++ [Predicting the spread of bushfires](https://www.csiro.au/en/Research/D61/Areas/Data-for-decisions/Disaster-management/Spark) using weather, water, vegetation, burn-off history, and urban planning data (Australia)
+
 #### Health
 
-#### Law enforcement
++ Analysing and reducing preventable hospital admissions](http://www.modernhealthcare.com/article/20140802/MAGAZINE/308029981) using medical record data (Texas)
++ [Identifying contaminated products](http://www.sigspatial.org/sigspatial-special-issues/sigspatial-special-volume-8-number-1-march-2016/Paper1.pdf) by analysing patters of foodborne illness using health data, laboratory data, and data from retail scanners (United States)
++ Identifying [children at high risk of lead poisoning](https://dssg.uchicago.edu/wp-content/uploads/2016/01/p2039-potash.pdf) using historical lead test data, home inspection results, and geographic and housing data (Chicago)
+
+#### Policing
+
++ [Predicting crime hotspots ahead of time](https://www.theguardian.com/cities/2014/jun/25/predicting-crime-lapd-los-angeles-police-data-analysis-algorithm-minority-report) using geographic and social media data (Los Angeles)
++ [Predicting where traffic accidents are likely to occur](https://gcn.com/articles/2017/02/09/big-data-crash-prediction.aspx) using weather and event data as well as historical crash data (Tennessee)
 
 #### Agriculture
++ Using a sensor network to [provide real time data](http://www.sense-t.org.au/projects-and-research/agriculture) about crops, livestock, water and weather (Tasmania)
 
 #### Fraud prevention
 
++ [Detecting crime sanitation industry](http://cseweb.ucsd.edu/~elkan/255/NewYorkFT.pdf) using data about waste haulage contracts, sewer blockage data, and business registration data  (New York)
++ [Predicting insurance fraud](https://www.itnews.com.au/news/how-data-is-helping-nsws-insurance-watchdog-flag-dodgy-compo-claims-430061) by identifying unusual claim patterns and relationships between known fraudulent claimants (New South Wales)
+
 #### Transport
+
+ν	Analysing traffic flow to optimise road and public transport investment (United States)
+Using data from public transport, GPS devices and traffic signals to identify ways to reduce congestion (New South Wales)
 
 #### Waste management
 
+ν	Using geographic and socioeconomic data to manage and reduce waste (Stockholm)
+Optimising timing and collection routes for waste disposal using geographic data, historical waste data, and traffic data (South Korea)
+
 #### Infrastructure
 
+ν	Monitoring the safety of bridge infrastructure using a vibration sensor network (Sydney)
+Predicting likely water pipe failures using infrastructure maps, water and weather data, and traffic volume data (Australia)
 
 
 
