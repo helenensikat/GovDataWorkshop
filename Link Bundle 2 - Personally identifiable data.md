@@ -24,5 +24,13 @@ There is great value in our data.  Collaborating and sharing can help us deliver
 + [Five Safes: designing data access for research](http://rsss.anu.edu.au/sites/default/files/Ritchie_5safes.pdf)
 + [Video: ‘5 Safes’ principles for confidential data use (4:01)](https://www.youtube.com/watch?v=Mln9T52mwj0)
 
-### Government data, privacy, and utility: points of view
+### Government data, privacy, and utility: many points of view
 
++ ['Dominello: NSW Government agency funding to be data-driven'](http://www.cio.com.au/article/614523/dominello-nsw-government-agency-funding-data-driven/)
++ ['How Big Data Is Improving Health, Security, and Saving Money for Agencies'](http://data-informed.com/how-big-data-is-improving-health-security-and-saving-money-for-agencies/)
++ ['As faith in government falters, data science and technology can help'](https://techcrunch.com/2017/01/26/as-faith-in-government-falters-data-science-and-technology-can-help/)
++ ['How IoT and data analytics technologies can improve Australia’s healthcare system'](http://www.cio.com.au/article/608306/how-iot-data-analytics-technologies-can-improve-australia-healthcare-system/)
++ ['4 Reasons Data Analytics Endeavours Don't Succeed'](http://www.govtech.com/data/4-Reasons-Data-Analytics-Endeavours-Dont-Succeed.html)
++ ['How the UK government can hack your personal data'](http://mashable.com/2017/02/19/snoopers-charter/#Thw0qErZxmqS)
++ ['Census 2016: should you be concerned about your privacy?'](https://theconversation.com/census-2016-should-you-be-concerned-about-your-privacy-63206)
++ ['Data retention: Privacy watchdogs urge caution over ‘metadata’ in lawsuits'](http://www.computerworld.com.au/article/613925/data-retention-privacy-watchdogs-urge-caution-over-metadata-lawsuits/)
