@@ -69,4 +69,9 @@ Big data: datasets too large and complex to be processed, searched, and analyed 
 
 Data linkage: matching records from various sources based on common features.  Connecting records that are thought to belong to the same person, business, place, family, or event.
 
++ [Data linkage fact sheet](https://www.finance.nsw.gov.au/ict/sites/default/files/resources/Fact%20Sheet%20-%20Data%20Linkage.pdf) from the NSW Government
++ [Wikipedia on record linkage](https://en.wikipedia.org/wiki/Record_linkage)
 + [A video on the data integration process](https://www.youtube.com/v/vLYGcbxrIPA) by [SA-NT DataLink](https://www.santdatalink.org.au/).
++ ABS's [Multi-Agency Data Integration Project](http://www.abs.gov.au/ausstats/abs@.nsf/be4aa82cd8cf7f07ca2570d60018da27/5eaa695de4bc61d1ca257f4c00170b7f!OpenDocument)
++ ['Australian study first to assess 'real world' impact of HPV vaccine on cervical cancer'](http://www.cancer.org.au/news/blog/prevention/australian-study-first-to-assess-real-world-impact-of-hpv-vaccine-on-cervical-cancer.html)
++ [Aboriginal Patterns of Cancer Care Project](http://www.healthinfonet.ecu.edu.au/key-resources/programs-projects?pid=1562)
