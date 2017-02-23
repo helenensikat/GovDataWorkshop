@@ -54,21 +54,16 @@ Big data: datasets too large and complex to be processed, searched, and analyed 
 
 #### Transport
 
-ν	Analysing traffic flow to optimise road and public transport investment (United States)
-Using data from public transport, GPS devices and traffic signals to identify ways to reduce congestion (New South Wales)
++ Using data from public transport, GPS devices and traffic signals to [identify ways to reduce congestion](https://www.itnews.com.au/news/data61-out-to-bust-sydney-congestion-418034) (New South Wales)
 
 #### Waste management
 
-ν	Using geographic and socioeconomic data to manage and reduce waste (Stockholm)
-Optimising timing and collection routes for waste disposal using geographic data, historical waste data, and traffic data (South Korea)
++ [Optimising timing and collection routes for waste disposal](https://datafloq.com/read/how-big-data-shapes-urban-waste-management-service/662) using geographic data, historical waste data, traffic data, and sensors (South Korea)
 
 #### Infrastructure
 
-ν	Monitoring the safety of bridge infrastructure using a vibration sensor network (Sydney)
-Predicting likely water pipe failures using infrastructure maps, water and weather data, and traffic volume data (Australia)
-
-
-
++ [Monitoring the safety of bridge infrastructure](https://datafloq.com/read/5-ways-big-data-will-improve-civil-infrastructure/1477) using a vibration, corrosion, and weather sensor network (Minneapolis)
++ [Predicting likely water pipe failures](https://research.csiro.au/data61/water-pipe-failure-prediction/) using infrastructure maps, water and weather data, and traffic volume data (Australia)
 
 ### Data Linkage
 
