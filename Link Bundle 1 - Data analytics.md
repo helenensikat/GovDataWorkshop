@@ -8,6 +8,7 @@ This can mean identifying patterns and meaning in routinely collected data.  Add
 
 + [New South Wales Data Analytics Centre webside](https://www.finance.nsw.gov.au/ict/nsw-data-analytics-centre)
 + ['Victorian govt to get its own data analytics centre'](https://www.itnews.com.au/news/victorian-govt-to-get-its-own-data-analytics-centre-439093)
++ ['Qld govt jumps on data analytics bandwagon'](https://www.itnews.com.au/news/qld-govt-jumps-on-data-analytics-bandwagon-449808)
 + ['Our New Center for Enhanced Analytics' - US Government Accountability Office](https://blog.gao.gov/2016/09/13/our-new-center-for-advanced-analytics/)
 + [Mayor's Office for Data Analytics website - New York City](http://www.nyc.gov/html/analytics/html/home/home.shtml)
 + [London Office of Data Analytics pilot](https://data.london.gov.uk/dataset/london-office-of-data-analytics)
