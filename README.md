@@ -6,7 +6,7 @@ The masterclass focuses on getting more value out of your data.  It is designed 
 
 The slides, workshop materials and information provided on this website are provided under a [CC BY-SA 3.0 AU licence](https://creativecommons.org/licenses/by-sa/3.0/au/), which means that you can re-use and adapt them as you wish.
 
-# Learn more: resources and reading
+## Learn more: resources and reading
 
 The information bundles below contain links to examples, news coverage,  videos, and other materials discussed in the masterclass.  They also provide links to additional content that will help you make a start in learning more about any of the areas.
 
@@ -22,7 +22,7 @@ The information bundles below contain links to examples, news coverage,  videos,
 
 [Information Bundle No.6: Displaying your data](Link Bundle 6 - Displaying your data.md)
 
-# Free to use: workshop materials
+## Free to use: workshop materials
 
 Links to key materials will be added here, including slides, spreadsheets, discussion prompts, and other files.
 
