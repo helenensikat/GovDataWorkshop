@@ -1,8 +1,6 @@
-# How to use your data to its full potential: a masterclass
+This site provides materials and resources for the 3rd Annual Government Data Summit masterclass.
 
-This sit provides materials and resources for the 3rd Annual Government Data Summit masterclass.
-
-The masterclass focuses on getting more value out of your data.  It is designed to give you a very broad taste of current issues around data and government, direct you towards issues you may wish to learn more about, and provide you with materials you can take back to your organisation.
+The masterclass focuses on getting more value out of your data, and using it to its full potential.  It is designed to give you a very broad taste of current issues around data and government, direct you towards issues you may wish to learn more about, and provide you with materials you can take back to your organisation.
 
 The slides, workshop materials and information provided on this website are provided under a [CC BY-SA 3.0 AU licence](https://creativecommons.org/licenses/by-sa/3.0/au/), which means that you can re-use and adapt them as you wish.
 
