@@ -24,7 +24,7 @@ There is great value in our data.  Collaborating and sharing can help us deliver
 + [Five Safes: designing data access for research](http://rsss.anu.edu.au/sites/default/files/Ritchie_5safes.pdf)
 + [Video: ‘5 Safes’ principles for confidential data use (4:01)](https://www.youtube.com/watch?v=Mln9T52mwj0)
 
-### Government data, privacy, and utility: many points of view
+### Government data, privacy, and utility: some points of view
 
 + ['Dominello: NSW Government agency funding to be data-driven'](http://www.cio.com.au/article/614523/dominello-nsw-government-agency-funding-data-driven/)
 + ['How Big Data Is Improving Health, Security, and Saving Money for Agencies'](http://data-informed.com/how-big-data-is-improving-health-security-and-saving-money-for-agencies/)
