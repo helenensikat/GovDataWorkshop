@@ -24,6 +24,7 @@ Big data: datasets too large and complex to be processed, searched, and analyed 
 + [Wikipedia on machine learning](https://en.wikipedia.org/wiki/Machine_learning)
 + [Wikipedia on data science](https://en.wikipedia.org/wiki/Data_science)
 + [Video: What is machine learning? (2:19)](https://www.youtube.com/watch?v=f_uwKZIAeM0)
++ [DPM&C's 'Data Skills and Capability in the Australian Public Service'](https://www.dpmc.gov.au/sites/default/files/publications/data-skills-capability.pdf)
 
 ### What are we using data analytics for?
 
