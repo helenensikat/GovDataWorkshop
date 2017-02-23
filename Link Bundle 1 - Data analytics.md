@@ -75,3 +75,4 @@ Data linkage: matching records from various sources based on common features.  C
 + ABS's [Multi-Agency Data Integration Project](http://www.abs.gov.au/ausstats/abs@.nsf/be4aa82cd8cf7f07ca2570d60018da27/5eaa695de4bc61d1ca257f4c00170b7f!OpenDocument)
 + ['Australian study first to assess 'real world' impact of HPV vaccine on cervical cancer'](http://www.cancer.org.au/news/blog/prevention/australian-study-first-to-assess-real-world-impact-of-hpv-vaccine-on-cervical-cancer.html)
 + [Aboriginal Patterns of Cancer Care Project](http://www.healthinfonet.ecu.edu.au/key-resources/programs-projects?pid=1562)
++ UK Cabinet Office [Data Science Ethical Framework](https://www.gov.uk/government/publications/data-science-ethical-framework)
