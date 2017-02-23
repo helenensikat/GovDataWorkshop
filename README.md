@@ -8,7 +8,7 @@ The slides, workshop materials and information provided on this website are prov
 
 # Learn more: resources and reading
 
-The information bundles below contain links to examples, news coverage, and other materials discussed in the masterclass.  They also provide links to additional content that will help you make a start in learning more about any of the areas.
+The information bundles below contain links to examples, news coverage,  videos, and other materials discussed in the masterclass.  They also provide links to additional content that will help you make a start in learning more about any of the areas.
 
 [Information Bundle No.1: Data analytics, big data, & data linkage](Link Bundle 1 - Data analytics.md)
 
@@ -24,4 +24,9 @@ The information bundles below contain links to examples, news coverage, and othe
 
 # Workshop materials
 
-To be updated.  Links to key materials will be added here, including slides, spreadsheets, discussion prompts, and other files.
+Links to key materials will be added here, including slides, spreadsheets, discussion prompts, and other files.
+
+* Masterclass slide deck (link to come)
+* Masterclass mindmap (link to come)
+* Materials for the 'Where's Gizmo?' re-identification game (link to come)
+* Discussion prompt cards (link to come)
