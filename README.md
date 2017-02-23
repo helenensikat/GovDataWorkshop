@@ -22,7 +22,7 @@ The information bundles below contain links to examples, news coverage,  videos,
 
 [Information Bundle No.6: Displaying your data](Link Bundle 6 - Displaying your data.md)
 
-# Workshop materials
+# Free to use: workshop materials
 
 Links to key materials will be added here, including slides, spreadsheets, discussion prompts, and other files.
 
