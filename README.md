@@ -1,5 +1,4 @@
-# GovDataWorkshop
-
+# How to use your data to its full potential:
 Materials and resources for the 3rd Annual Government Data Summit masterclass.
 
 The masterclass focuses on getting more value out of your data.  It is designed to give you a very broad taste of current issues around data and government, direct you towards issues you may wish to learn more about, and provide you with materials you can take back to your organisation.
