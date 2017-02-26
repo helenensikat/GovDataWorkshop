@@ -26,5 +26,5 @@ Links to key materials will be added here, including slides, spreadsheets, discu
 
 * Masterclass slide deck (link to come)
 * Masterclass mindmap (link to come)
-* Materials for the 'Where's Gizmo?' re-identification game (link to come)
+* [Materials for the 'Where's Gizmo?' re-identification game](https://docs.google.com/spreadsheets/d/1L4k0v4cKlq_xQkIY_9ExDRL6xr4gVFILRB7Bp2aEtxw/edit?usp=sharing) (spoilers!)
 * Discussion prompt cards (link to come)
