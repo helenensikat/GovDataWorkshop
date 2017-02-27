@@ -1,22 +1,31 @@
 Good presentation of data, information, and knowledge is key to effectively informing and engaging with the wider community.
 
-Making complex data meaningful to the mum and dad who just want to understand what the electricity market is doing, without having them wade through the data themselves; or making a public transport map that is both beautiful and informative.
+This can mean making complex data meaningful for the citizen who wants to learn how much energy solar panels generate in their city, or the designer who wants to make a public transport map that is both beautiful and informative.
 
 ![Photograph of a London Underground map](https://c1.staticflickr.com/5/4110/5184016805_443b27b6c9_z.jpg)
 
 *Typographic Tube Map by Eiichi Kono - Creative Commons Attribution 2.0*
 
-# A few great examples of data visualisation from government
-@TODO
+# Examples, Inspiration, & Storytelling with Public Data
+
+- New South Wales Bureau of Transport Statistics [Journey to Work Visualiser](http://visual.bts.nsw.gov.au/jtwdynamic/)
+- United States Census Bureau [Data Visualization Gallery](https://www.census.gov/dataviz/)
+- [shipmap.org](https://www.shipmap.org/) - movements of the global merchant fleet in 2012
+- BrightPoint Inc's [Interactive US Government Spending](http://vizuly.io/product/weighted-tree/?demo=brightpoint) and [US Trade Deficit](http://www.brightpointinc.com/united-states-trade-deficit/) visualisations
+- [Information Geographies](http://geography.oii.ox.ac.uk/?page=home) at the Oxford Internet Institute
+- [theopenbudget.org](http://theopenbudget.org/)
+- [CDC Data Visualization Gallery](https://blogs.cdc.gov/nchs-data-visualization/) pilot
+- 'Battling Infectious Diseases in the 20th Century](Battling Infectious Diseases in the 20th Century) by the Wall Street Journal
+- ["What one swing state can teach us about political polarization in America"](https://www.washingtonpost.com/graphics/politics/2016-election/nc-precincts/) by the Washington Post
 
 # NationalMap
-The NationalMap is a website for map-based access to spatial data from Australian government agencies. It is an initiative of the Department of Communications and the Arts now currently managed by the Department of the Prime Minister and Cabinet and the software has been developed by Data61 working closely with the Department of Communications and the Arts, Geoscience Australia and other government agencies.
+The NationalMap is a website for map-based access to spatial data from Australian government agencies. It was an initiative of the Department of Communications and the Arts, and is managed by the Department of the Prime Minister and Cabinet.  The software was developed by Data61, working closely with the Department of Communications and the Arts, Geoscience Australia, and other agencies.
 
 The NationalMap:
 
-- provides easy access to authoritative and other spatial data to government, business and the public
-- facilitates the opening of data by federal, state and local government bodies
-- provides an open framework of geospatial data services that supports commercial and community innovation
+- provides easy access to spatial data to government, businesses, and the public;
+- makes it easier for Commonwealth, State and local government bodies to open up spatial data; and
+- provides an open framework of geospatial data services to support commercial and community innovation.
 
 [http://nationalmap.gov.au](http://nationalmap.gov.au)
 
@@ -64,6 +73,14 @@ The NationalMap:
 
 
 ## Further Reading
+
+### Government-specific
+[The Use of Data Visualization in Government](http://www.businessofgovernment.org/sites/default/files/The%20Use%20of%20Visualization%20in%20Government.pdf) by the IBM Centre for the Business of Government.
+
+[DataViz: Improving data visualisation for the public sector](https://www.gov.uk/government/publications/dataviz-improving-data-visualisation-for-the-public-sector) commissioned by the UK the Department for Communities and Local Government.
+
+[Data visualisation: Guidance for creating charts and tables and best practice for using colour in your work](https://style.ons.gov.uk/category/data-visualisation/) from the UK Office for National Statistics.
+
 ### Alberto Cairo
 Alberto Cairo is the Knight Chair in Visual Journalism at the School of Communication of the University of Miami and has written extensively on data visualisation for a wide audience.
 
