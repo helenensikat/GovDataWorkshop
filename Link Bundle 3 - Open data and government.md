@@ -12,6 +12,9 @@ on the "what, why & how" of open data.*)
 - [The Global Open Data Index](http://index.okfn.org/)
 - [The Business Case for Open Data - Nicholas Gruen & Martin Tisné](https://www.omidyar.com/blog/business-case-open-data)
 - [Open data: Unlocking innovation and performance with liquid information - McKinsey](http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/open-data-unlocking-innovation-and-performance-with-liquid-information)
+- [Open Data and Digital Services – Foundations for a New Information Economy](https://thedatastarter.com/2015/09/02/open-data-and-digital-services-foundations-for-a-new-information-economy/)
+- [Overview of the NASA Open Government Plan Version 2.0](https://speakerdeck.com/nasa/overview-of-the-nasa-open-government-plan-version-20)
+- [Open Data in a Day - Introduction to Open Data](https://www.slideshare.net/TheODINC/open-data-in-a-day-deck-1) (*Ian Henshaw, Open Data Institute North Carolina*)
 
 ## Open Government in Australia
 - [Government 2.0 Taskforce](http://gov2.net.au/) (*Archived*)
