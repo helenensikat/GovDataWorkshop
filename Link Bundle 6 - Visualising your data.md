@@ -77,11 +77,9 @@ The NationalMap:
 ## Further Reading
 
 ### Government-specific
-[The Use of Data Visualization in Government](http://www.businessofgovernment.org/sites/default/files/The%20Use%20of%20Visualization%20in%20Government.pdf) by the IBM Centre for the Business of Government.
-
-[DataViz: Improving data visualisation for the public sector](https://www.gov.uk/government/publications/dataviz-improving-data-visualisation-for-the-public-sector) commissioned by the UK the Department for Communities and Local Government.
-
-[Data visualisation: Guidance for creating charts and tables and best practice for using colour in your work](https://style.ons.gov.uk/category/data-visualisation/) from the UK Office for National Statistics.
+- [The Use of Data Visualization in Government](http://www.businessofgovernment.org/sites/default/files/The%20Use%20of%20Visualization%20in%20Government.pdf) by the IBM Centre for the Business of Government.
+- [DataViz: Improving data visualisation for the public sector](https://www.gov.uk/government/publications/dataviz-improving-data-visualisation-for-the-public-sector) commissioned by the UK the Department for Communities and Local Government.
+- [Data visualisation: Guidance for creating charts and tables and best practice for using colour in your work](https://style.ons.gov.uk/category/data-visualisation/) from the UK Office for National Statistics.
 
 ### Alberto Cairo
 Alberto Cairo is the Knight Chair in Visual Journalism at the School of Communication of the University of Miami and has written extensively on data visualisation for a wide audience.
@@ -93,6 +91,7 @@ Alberto Cairo is the Knight Chair in Visual Journalism at the School of Communic
 [The Functional Art is an introduction to Information Graphics and Visualization](http://www.thefunctionalart.com/p/about-book.html)
 
 ### Assorted
+- [How to make infographics: a beginner’s guide to data visualisation](https://www.theguardian.com/global-development-professionals-network/2014/aug/28/interactive-infographics-development-data) by The Guardian
 - [Engineering intelligence through data visualisation at Uber](https://eng.uber.com/data-viz-intel/)
 
 ### Other Books
