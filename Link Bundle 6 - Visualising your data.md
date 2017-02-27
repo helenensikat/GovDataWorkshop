@@ -15,7 +15,7 @@ This can mean making complex data meaningful for the citizen who wants to learn 
 - [Information Geographies](http://geography.oii.ox.ac.uk/?page=home) at the Oxford Internet Institute
 - [theopenbudget.org](http://theopenbudget.org/)
 - [CDC Data Visualization Gallery](https://blogs.cdc.gov/nchs-data-visualization/) pilot
-- 'Battling Infectious Diseases in the 20th Century](Battling Infectious Diseases in the 20th Century) by the Wall Street Journal
+- ['Battling Infectious Diseases in the 20th Century'](http://graphics.wsj.com/infectious-diseases-and-vaccines/) by the Wall Street Journal
 - ["What one swing state can teach us about political polarization in America"](https://www.washingtonpost.com/graphics/politics/2016-election/nc-precincts/) by the Washington Post
 
 # NationalMap
