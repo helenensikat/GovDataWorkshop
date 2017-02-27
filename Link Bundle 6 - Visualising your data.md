@@ -8,7 +8,7 @@ Whatever the source, these stories and images can make complex data meaningful a
 
 *Typographic Tube Map by Eiichi Kono - Creative Commons Attribution 2.0*
 
-# Presenting, Visualising, & Storytelling with Public Data
+# Presenting Public Data
 
 ## Tools & Dashboards
 - VicEmergency [Incidents and Warnings](https://emergency.vic.gov.au/respond/) viewerNew South Wales Bureau of Transport Statistics [Journey to Work Visualiser](http://visual.bts.nsw.gov.au/jtwdynamic/)
