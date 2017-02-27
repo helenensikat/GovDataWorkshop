@@ -1,6 +1,8 @@
-Good presentation of data, information, and knowledge is key to effectively informing and engaging with the wider community.
+Good presentation of data, information, and knowledge is key to effectively informing and engaging with the wider community.  Data visualisation goes to the heart of this.
 
-This can mean making complex data meaningful for the citizen who wants to learn how much energy solar panels generate in their city, or the designer who wants to make a public transport map that is both beautiful and informative.
+Sometimes agencies themselves are the ones creating dashboards, visualisations, and novel ways of presenting their data.  And sometimes they are the ones releasing data into the wild; data that others  - hobbyists, professionals, and data journalists - can use to tell a story.
+
+Whatever the source, these stories and images can make complex data meaningful and navigable for citizens who want to know more about their government and the services it delivers.
 
 ![Photograph of a London Underground map](https://c1.staticflickr.com/5/4110/5184016805_443b27b6c9_z.jpg)
 
