@@ -14,15 +14,15 @@
 ## Resources
 - [How to run a successful hackathon](https://hackathon.guide/) - a basic introduction by Joshua Tauberer
 - Many more guides, tips, and articles on running a successful hackathon: 
-..* [1 - The Hack Day Manifesto](http://hackdaymanifesto.com/)
+- * [1 - The Hack Day Manifesto](http://hackdaymanifesto.com/)
 
-..* [2 - The MLH Hackathon Organizer Guide](https://guide.mlh.io/)
+- * [2 - The MLH Hackathon Organizer Guide](https://guide.mlh.io/)
 
-..* [3 - Stormpath Ultimate Guide to Running a Company Hackathon](https://stormpath.com/blog/ultimate-guide-running-company-hackathon)
+- * [3 - Stormpath Ultimate Guide to Running a Company Hackathon](https://stormpath.com/blog/ultimate-guide-running-company-hackathon)
 
-..* [4 - Ten Tips for Hackathon Success](http://www.appsembler.com/blog/10-tips-for-hackathon-success/)
+- * [4 - Ten Tips for Hackathon Success](http://www.appsembler.com/blog/10-tips-for-hackathon-success/)
 
-..* [5 - How to organise a hackathon: six key tips](http://www.techrepublic.com/article/how-to-organize-a-hackathon-6-key-tips/)
+- * [5 - How to organise a hackathon: six key tips](http://www.techrepublic.com/article/how-to-organize-a-hackathon-6-key-tips/)
 
 ## Prototypes to practice
 - Mindmap: [Building a successful startup incubator](https://mindwerx.com/portfolio-items/building-successful-start-incubator/)
