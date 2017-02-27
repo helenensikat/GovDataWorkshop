@@ -24,7 +24,7 @@
  * [How to organise an innovation day](https://www.boardofinnovation.com/organise-innovation-day-detailed-agenda-downloads/)
  * [Internal hackathons can lead to big cultural changes](https://simonazzopardi.com/2015/04/07/internal-hackathons-can-lead-to-big-cultural-changes/)
 
-## Prototypes to practice
+## Prototype to practice
 - Mindmap: [Building a successful startup incubator](https://mindwerx.com/portfolio-items/building-successful-start-incubator/)
 - Australian Government [Incubation Support initiative](http://www.innovation.gov.au/page/incubator-support-programme)
 - Sydney and Melbourne [startup ecosystem maps](https://www.startrail.co/)
