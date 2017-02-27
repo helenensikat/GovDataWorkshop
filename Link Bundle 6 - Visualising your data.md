@@ -12,13 +12,13 @@ Whatever the source, these stories and images can make complex data meaningful a
 
 - New South Wales Bureau of Transport Statistics [Journey to Work Visualiser](http://visual.bts.nsw.gov.au/jtwdynamic/)
 - United States Census Bureau [Data Visualization Gallery](https://www.census.gov/dataviz/)
-- [shipmap.org](https://www.shipmap.org/) - movements of the global merchant fleet in 2012
 - BrightPoint Inc's [Interactive US Government Spending](http://vizuly.io/product/weighted-tree/?demo=brightpoint) and [US Trade Deficit](http://www.brightpointinc.com/united-states-trade-deficit/) visualisations
 - [Information Geographies](http://geography.oii.ox.ac.uk/?page=home) at the Oxford Internet Institute
 - [theopenbudget.org](http://theopenbudget.org/)
+- [shipmap.org](https://www.shipmap.org/) - movements of the global merchant fleet in 2012
 - [CDC Data Visualization Gallery](https://blogs.cdc.gov/nchs-data-visualization/) pilot
 - ['Battling Infectious Diseases in the 20th Century'](http://graphics.wsj.com/infectious-diseases-and-vaccines/) by the Wall Street Journal
-- ["What one swing state can teach us about political polarization in America"](https://www.washingtonpost.com/graphics/politics/2016-election/nc-precincts/) by the Washington Post
+- ["What one swing state can teach us about political polarization in America"](https://www.washingtonpost.com/graphics/politics/2016-election/nc-precincts/) by The Washington Post
 
 # NationalMap
 The NationalMap is a website for map-based access to spatial data from Australian government agencies. It was an initiative of the Department of Communications and the Arts, and is managed by the Department of the Prime Minister and Cabinet.  The software was developed by Data61, working closely with the Department of Communications and the Arts, Geoscience Australia, and other agencies.
