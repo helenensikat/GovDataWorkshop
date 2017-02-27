@@ -8,16 +8,23 @@ Whatever the source, these stories and images can make complex data meaningful a
 
 *Typographic Tube Map by Eiichi Kono - Creative Commons Attribution 2.0*
 
-# Examples, Inspiration, & Storytelling with Public Data
+# Presenting, Visualising, & Storytelling with Public Data
 
-- New South Wales Bureau of Transport Statistics [Journey to Work Visualiser](http://visual.bts.nsw.gov.au/jtwdynamic/)
-- United States Census Bureau [Data Visualization Gallery](https://www.census.gov/dataviz/)
+## Tools & Dashboards
+- VicEmergency [Incidents and Warnings](https://emergency.vic.gov.au/respond/) viewerNew South Wales Bureau of Transport Statistics [Journey to Work Visualiser](http://visual.bts.nsw.gov.au/jtwdynamic/)
+- Queensland Government [ICT Project Dashboard](https://www.qld.gov.au/ictdashboard/)
 - BrightPoint Inc's [Interactive US Government Spending](http://vizuly.io/product/weighted-tree/?demo=brightpoint) and [US Trade Deficit](http://www.brightpointinc.com/united-states-trade-deficit/) visualisations
 - [DemocracySausage.org](http://democracysausage.org/)
-- [Information Geographies](http://geography.oii.ox.ac.uk/?page=home) at the Oxford Internet Institute
 - [theopenbudget.org](http://theopenbudget.org/)
+- [theyvoteforyou.org.au](https://theyvoteforyou.org.au/)
 - [shipmap.org](https://www.shipmap.org/) - movements of the global merchant fleet in 2012
+
+## Visualisation Galleries
+- United States Census Bureau [Data Visualization Gallery](https://www.census.gov/dataviz/)
+- [Information Geographies](http://geography.oii.ox.ac.uk/?page=home) at the Oxford Internet Institute
 - [CDC Data Visualization Gallery](https://blogs.cdc.gov/nchs-data-visualization/) pilot
+
+## Data Journalism & Storytelling
 - ['Battling Infectious Diseases in the 20th Century'](http://graphics.wsj.com/infectious-diseases-and-vaccines/) by the Wall Street Journal
 - ["What one swing state can teach us about political polarization in America"](https://www.washingtonpost.com/graphics/politics/2016-election/nc-precincts/) by The Washington Post
 
