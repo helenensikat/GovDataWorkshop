@@ -1,4 +1,4 @@
-This site provides materials and resources for the 3rd Annual Government Data Summit masterclass.
+This site provides materials and resources for the 'How to use your data to its full potential' masterclass.
 
 The masterclass focuses on getting more value out of your data, and using it to its full potential.  It is designed to give you a very broad taste of current issues around data and government, direct you towards issues you may wish to learn more about, and provide you with materials you can take back to your organisation.
 
@@ -16,7 +16,7 @@ The information bundles below contain links to examples, news coverage,  videos,
 
 [Information Bundle No.4: Data formats and standards](Link Bundle 4 - Data formats and standards.md) (content to come)
 
-[Information Bundle No.5: Hackathons and challenges](Link Bundle 5 - Hackathons and challenges.md) (content to come)
+[Information Bundle No.5: Hackathons and challenges](Link Bundle 5 - Hackathons and challenges.md)
 
 [Information Bundle No.6: Visualising your data](Link Bundle 6 - Visualising your data.md)
 
