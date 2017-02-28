@@ -14,7 +14,7 @@ The information bundles below contain links to examples, news coverage,  videos,
 
 [Information Bundle No.3: Open data and government](Link Bundle 3 - Open data and government.md)
 
-[Information Bundle No.4: Data formats and standards](Link Bundle 4 - Data formats and standards.md) (content to come)
+[Information Bundle No.4: Data formats and standards](Link Bundle 4 - Data formats and standards.md)
 
 [Information Bundle No.5: Hackathons and challenges](Link Bundle 5 - Hackathons and challenges.md)
 
