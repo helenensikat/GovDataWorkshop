@@ -1,5 +1,18 @@
 # Information Bundle No.5: Hackathons and challenges
 
+## Citizen Engagement
+### What is the user need? How to engage?
+- [Start by learning user needs - GovUK Service Manual](https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs)
+- [We need to talk about user needs - GovUK Blog](https://userresearch.blog.gov.uk/2015/05/28/we-need-to-talk-about-user-needs/)
+- [Creating a User-Centered Approach in Government - Usability.GOV](https://www.usability.gov/what-and-why/user-centered-government.html)
+- [Understand user needs - DTA Digital Service Standard](https://www.dta.gov.au/standard/1-user-needs/)
+- [Co-Creation of Government Services - World Bank](http://blogs.worldbank.org/ic4d/co-creation-of-government-services)
+- [Co-creating a more open government](https://medium.com/ontariodigital/co-creating-a-more-open-government-6de359e04f42#.6nqnlud69)
+- [Service Delivery in Government - Department of Social Services](http://servicedelivery.dss.gov.au/tag/citizen-engagement/)
+- [Meet the data owners: VicRoads](https://au.okfn.org/2015/04/18/meet-the-data-owners-vicroads/)
+- [The Data Guru in Residence - Code for Australia](http://www.codeforaustralia.org/blog/584)
+- [The Data Guru in Residence - Steve Bennett](https://stevebennett.me/2014/08/28/data-guru-in-residence/)
+
 ## What's a hackathon?
 Hackathons bring people with varying backgrounds together to form teams around a problem or idea, and collaboratively develop unique solutions.  These solutions frequently take the form of websites, mobile apps, and analysis or visualisations of data.
 
