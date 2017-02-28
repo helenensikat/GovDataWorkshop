@@ -8,13 +8,11 @@ Having a strong technical underpinning to the data you release is key to maximis
 - **And the rest**: Many domain-specific formats across niche areas (e.g. Seismology, Laser and satellite remote-sensing).
 
 ### (Non-open) Data Formats
-Digital material need not be machine-readable.
+Digital material isn't necessarily machine-readable.
 
-Consider a PDF document containing tables of data. These are digital, and anyone can open them, but are not machine-readable because a computer would struggle to access the tabular information - they’re intended to be readable by people. The tables in the PDF inherently lack any structure beyond that which is needed to display it visually. It’s lost the meaning and structure it once had and just been reduced to text. By comparison, the equivalent tables in a format such as a CSV/Spreadsheet are very much machine-readable.
+> "Non-digital material (for example printed or hand-written documents) is by its non-digital nature not machine-readable. But even digital material need not be machine-readable. For example, consider a PDF document containing tables of data. These are definitely digital but are not machine-readable because a computer would struggle to access the tabular information - even though they are very human readable. The equivalent tables in a format such as a spreadsheet would be machine readable." - The Open Data Handbook
 
-In practice, there are always shades of grey. Most published data formats for Aus, US, and UK include a mix of good machine-readable formats and these non-open formats.
-
-Something is always better than nothing. Don’t let the perfect be the enemy of the good.
+In practice, there are always shades of grey. Most published data formats for Aus, US, and UK include a mix of good machine-readable formats and these non-open formats. Something is always better than nothing, so don't let the perfect be the enemy of the good.
 
 ### Further Reading
 - [The Open Data Handbook: File Formats](http://opendatahandbook.org/guide/en/appendices/file-formats/)
