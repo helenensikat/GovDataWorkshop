@@ -2,7 +2,7 @@
 
 Data Analytics: Involves collecting raw data and using it to derive information that can inform decision-makers.
 
-This can mean identifying patterns and meaning in routinely collected data.  Addressing complex policy problems, reavealing how programs result in particular outcomes.  Working together to understand issues that span multiple agencies, & design evidence based policy.
+This can mean identifying patterns and meaning in routinely collected data.  Addressing complex policy problems, revealing how programs result in particular outcomes.  Working together to understand issues that span multiple agencies, & design evidence based policy.
 
 ### Current and coming data analytics centres
 
@@ -15,7 +15,7 @@ This can mean identifying patterns and meaning in routinely collected data.  Add
 
 ### Big Data
 
-Big data: datasets too large and complex to be processed, searched, and analyed using traditional techniques.
+Big data: datasets too large and complex to be processed, searched, and analysed using traditional techniques.
 
 + [Wikipedia on big data](https://en.wikipedia.org/wiki/Big_data)
 + [Infographic: the four V's of big data](http://www.ibmbigdatahub.com/infographic/four-vs-big-data)
