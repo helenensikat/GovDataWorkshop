@@ -47,3 +47,23 @@ All jurisdictional government data portals in Australia - data.gov.au, data.wa.g
 ### Further Reading
 - [What APIs Are And Why They’re Important - ReadWrite](http://readwrite.com/2013/09/19/api-defined/)
 - [API 101 - API Evangelist](http://101.apievangelist.com/)
+
+
+## Data Standards
+> “Standards make it easier to create, share, and integrate data by making sure that there is a clear understanding of how the data are represented, and that the data you receive are in a form that you expected.” - US Geological Survey
+
+When we talk about standards in this context we’re considering the structure of the data itself (i.e. the rules the data follows, descriptions of what each element of the data means, possible values). Data standards represents the next level of data maturity and ensures data can be shared and integrated with confidence and provides a clear explanation of how the data are represented.
+
+Don’t let the lack of a standard stop you from publishing it. The way you describe your data now is *probably* perfectly OK if it’s in an open format with a well written description.
+
+Think carefully before embarking on developing a standard. Do other organisations collect the same data as you or are you unique? What about internationally? Is there value in it for your users? Beware of over-engineering it, involve your data users, and talk to other publishers.
+
+What does a good standard look like? Lightweight, developed collaboratively with publishers and users. Has value to community and users of the data. The [Open Council Data Standards](http://standards.opencouncildata.org/) are a good example of this approach.
+
+### Further Reading
+- [Data Standards - US Geological Survey](https://www2.usgs.gov/datamanagement/plan/datastandards.php)
+- [Open Council Data Standards](http://standards.opencouncildata.org/)
+
+## Licensing
+- [Creative Commons Australia](http://creativecommons.org.au/)
+- [Australian Government Public Data Policy Statement](https://www.dpmc.gov.au/public-data/public-data-policy)
