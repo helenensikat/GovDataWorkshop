@@ -24,7 +24,7 @@ The information bundles below contain links to examples, news coverage,  videos,
 
 Links to key materials will be added here, including slides, spreadsheets, discussion prompts, and other files.
 
-* Masterclass slide deck (link to come)
+* [Masterclass slide deck](https://docs.google.com/presentation/d/1tv7Uglss8xBIL-0hGamzKvWsrxsZ69bODOzuALQBP3o/edit?usp=sharing)
 * [Masterclass mindmap](https://drive.google.com/file/d/0B6VUYS_DQuL4a3dzeFAtajRYQlU/view?usp=sharing)
 * [Materials for the 'Where's Gizmo?' re-identification game](https://docs.google.com/spreadsheets/d/1L4k0v4cKlq_xQkIY_9ExDRL6xr4gVFILRB7Bp2aEtxw/edit?usp=sharing) (spoilers!)
 * [Discussion prompt cards](https://drive.google.com/file/d/0B6VUYS_DQuL4andmVzZJbHhZNHM/view?usp=sharing)
