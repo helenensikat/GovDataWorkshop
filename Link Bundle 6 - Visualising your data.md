@@ -10,9 +10,9 @@ Whatever the source, these stories and images can make complex data meaningful a
 
 *Typographic Tube Map by Eiichi Kono - Creative Commons Attribution 2.0*
 
-## Presenting Public Data
+## Presenting public data
 
-### Tools & Dashboards
+### Tools & dashboards
 - VicEmergency [Incidents and Warnings](https://emergency.vic.gov.au/respond/) viewerNew South Wales Bureau of Transport Statistics [Journey to Work Visualiser](http://visual.bts.nsw.gov.au/jtwdynamic/)
 - Queensland Government [ICT Project Dashboard](https://www.qld.gov.au/ictdashboard/)
 - BrightPoint Inc's [Interactive US Government Spending](http://vizuly.io/product/weighted-tree/?demo=brightpoint) and [US Trade Deficit](http://www.brightpointinc.com/united-states-trade-deficit/) visualisations
@@ -21,12 +21,12 @@ Whatever the source, these stories and images can make complex data meaningful a
 - [theyvoteforyou.org.au](https://theyvoteforyou.org.au/)
 - [shipmap.org](https://www.shipmap.org/) - movements of the global merchant fleet in 2012
 
-### Visualisation Galleries
+### Visualisation galleries
 - United States Census Bureau [Data Visualization Gallery](https://www.census.gov/dataviz/)
 - [Information Geographies](http://geography.oii.ox.ac.uk/?page=home) at the Oxford Internet Institute
 - [CDC Data Visualization Gallery](https://blogs.cdc.gov/nchs-data-visualization/) pilot
 
-### Data Journalism & Storytelling
+### Data journalism & storytelling with data
 - ['Battling Infectious Diseases in the 20th Century'](http://graphics.wsj.com/infectious-diseases-and-vaccines/) by the Wall Street Journal
 - ["What one swing state can teach us about political polarization in America"](https://www.washingtonpost.com/graphics/politics/2016-election/nc-precincts/) by The Washington Post
 
@@ -41,10 +41,10 @@ The NationalMap:
 
 [http://nationalmap.gov.au](http://nationalmap.gov.au)
 
-## Visualisation Tools & Resources
+## Visualisation tools & resources
 
-### From BI to Infographics
-#### Business Intelligence Platforms & Dashboards
+### From BI to infographics
+#### Business Intelligence platforms & dashboards
 - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
 - [Tableau](https://www.tableau.com/)
 - [Yellowfin BI](https://www.yellowfinbi.com/)
@@ -75,16 +75,16 @@ The NationalMap:
 - [MapBox](https://www.mapbox.com/)
 - [ArcGIS Online](https://www.arcgis.com/home/index.html)
 
-#### Specialist Software
+#### Specialist software
 - [QGIS](http://www.qgis.org/en/site/)
 - [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/)
 
-#### Business Intelligence Platforms
+#### Business Intelligence platforms
 - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/)
 - [Tableau](https://www.tableau.com/)
 
 
-### Further Reading
+### Further reading
 #### Government-specific
 - [The Use of Data Visualization in Government](http://www.businessofgovernment.org/sites/default/files/The%20Use%20of%20Visualization%20in%20Government.pdf) by the IBM Centre for the Business of Government.
 - [DataViz: Improving data visualisation for the public sector](https://www.gov.uk/government/publications/dataviz-improving-data-visualisation-for-the-public-sector) commissioned by the UK the Department for Communities and Local Government.
@@ -103,12 +103,12 @@ Alberto Cairo is the Knight Chair in Visual Journalism at the School of Communic
 - [How to make infographics: a beginner’s guide to data visualisation](https://www.theguardian.com/global-development-professionals-network/2014/aug/28/interactive-infographics-development-data) by The Guardian
 - [Engineering intelligence through data visualisation at Uber](https://eng.uber.com/data-viz-intel/)
 
-#### Other Books
+#### Other books
 - [Design for Information: An introduction to the histories, theories, and best practices behind effective information visualizations](http://isabelmeirelles.com/book-design-for-information/)
 - [Visualize This: The FlowingData Guide to Design, Visualization, and Statistics - Nathan Yau](http://book.flowingdata.com/)
 - [Beautiful Visualization: Looking at Data through the Eyes of Experts - Julie Steele](http://shop.oreilly.com/product/0636920000617.do)
 
-#### News Sources
+#### News sources
 - [informationisbeautiful.net](http://www.informationisbeautiful.net/)
 - [flowingdata.com](http://flowingdata.com/)
 - [Reddit: Data is Beautiful](https://www.reddit.com/r/dataisbeautiful/)
