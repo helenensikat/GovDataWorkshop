@@ -16,6 +16,7 @@ Whatever the source, these stories and images can make complex data meaningful a
 - VicEmergency [Incidents and Warnings](https://emergency.vic.gov.au/respond/) viewer
 - New South Wales Bureau of Transport Statistics [Journey to Work Visualiser](http://visual.bts.nsw.gov.au/jtwdynamic/)
 - Queensland Government [ICT Project Dashboard](https://www.qld.gov.au/ictdashboard/)
+- Western Australian State Budget [interactive visualisation](http://static.ourstatebudget.wa.gov.au/infographic/index.html?)
 - BrightPoint Inc's [Interactive US Government Spending](http://vizuly.io/product/weighted-tree/?demo=brightpoint) and [US Trade Deficit](http://www.brightpointinc.com/united-states-trade-deficit/) visualisations
 - [DemocracySausage.org](http://democracysausage.org/)
 - [theopenbudget.org](http://theopenbudget.org/)
